@@ -6,7 +6,7 @@ Some deduction, induction and logic decomposition of things.
 
 *Logic steps for finish a course on master degree level*
 
-   Normally, master degree level course need more time to learn, but with finishing many courses in MUN, I summarise my learning method into the following steps, and I feel better than before with this usefull steps.
+   Normally, master degree level course needs more time to learn, but after finishing many courses in MUN, I summarise my learning method into the following steps, and I feel better than before with this usefull steps.
 
 
     Step1 Choosing your suitable courses before next semester.
@@ -19,7 +19,7 @@ Some deduction, induction and logic decomposition of things.
 
     Step3 Asynchronous learning.
     
-   Usually, instructor post learning method one by one, it is good to learn and another method is to learn something instructor does not post. This works better on course which main points does not has a lot relevance.  Asynchronous learning has some detects, which will confuse students who has a deviation in understanding unteaching main points in this course.
+   Usually, instructors post learning method one by one, it is good to learn and another method is to learn something instructor does not post. This works better on course which main points do not has a lot relevance.  Asynchronous learning has some detects, which will confuse students who have some deviation in understanding high reletive main points in this course.
   
 
 
